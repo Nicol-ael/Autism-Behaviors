@@ -2,7 +2,7 @@
 
 ## 📸 Demo
 
-(demoo.png)
+![Demo](demoo.png)
 
 
 ---
