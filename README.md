@@ -7,6 +7,18 @@
 
 ---
 
+
+## 📊 Dataset
+
+Este proyecto utiliza el dataset "Autism Screening for Toddlers" obtenido de Kaggle.
+
+Debido a restricciones de licencia, el dataset no se incluye en este repositorio.
+
+Puedes descargarlo aquí:
+https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers
+
+
+
 ## 📊 Descripción del proyecto
 
 Este proyecto consiste en un **análisis exploratorio de datos (EDA)** enfocado en el Trastorno del Espectro Autista (ASD), integrando procesamiento en Python y modelado analítico en Power BI.
